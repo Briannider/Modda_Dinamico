@@ -1,5 +1,5 @@
 # Modda - Lo mejor de la moda
-
+El proyecto consiste en un E-commerce que esta iniciando, en principio tiene cards que se cargan desde un JSON donde se encuentran los productos del catalogo.
 ## Stack
 El proyecto está armado con NodeJS por lo cuál corre en un entorno de NGINX.
 
